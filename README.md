@@ -17,7 +17,11 @@
 4. Last 2 todo's:
 
 - TODO: 🐶19. Add in your authorship comments in THIS README document. (It's a joint authorship, right?). Include the date and that this is for your CIS 376 mid term exam, and don't forget to include at least ONE attribution to other code sources.
+
+Olivia Sharpston - February 25, 2025 for my CIS 376 Exam 1
+- 
 - TODO: 🐶20. Add in an image with a screenshot of you with exactly 4782 points
+
 
 5. test it all locally and, when ready,
 6. zip and submit to Canvas
